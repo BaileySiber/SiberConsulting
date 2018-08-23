@@ -59,23 +59,6 @@ section h3.section-subheading {
   }
 }
 
-.sctext {
-  font-size: 25px;
-  margin-top: 30px;
-}
-
-.about-ul {
-  list-style-position: inside
-}
-
-.about-list {
-  color: black;
-  font-size: 25px;
-  width:400px;
-  margin:0 auto;
-  text-align:left;
-}
-
 .btn {
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 700;
