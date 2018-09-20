@@ -48,7 +48,7 @@ section h3.section-subheading {
   font-size: 16px;
   font-weight: 400;
   font-style: italic;
-  margin-bottom: 75px;
+  margin-bottom: 20px;
   text-transform: none;
   font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
@@ -226,6 +226,24 @@ header.masthead .intro-text .intro-heading {
 
 .service-heading {
   margin: 15px 0;
+}
+
+.service-heading-special {
+  margin: 15px 0;
+  font-size: 90%;
+}
+
+ul.about-ul {
+  margin-left: 30%;
+}
+
+li.about-list {
+  text-align: left;
+  font-size: 120%;
+}
+
+p.sctext {
+  font-size: 110%;
 }
 
 #portfolio .portfolio-item {
@@ -510,17 +528,4 @@ ul.social-buttons li a {
 
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
   background-color: #87BFFF;
-}
-
-ul.about-ul {
-  padding-left: 30%;
-}
-
-li.about-list {
-  font-size: 120%;
-  text-align: left;
-}
-
-p.sctext {
-  font-size: 110%;
 }
