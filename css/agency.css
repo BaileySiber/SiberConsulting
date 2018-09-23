@@ -118,11 +118,11 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-brand {
-  color: #0e2f4c;
+  color: white;
 }
 
 #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-  color: #061421;
+  color: white;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
@@ -135,7 +135,7 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: #0e2f4c;
+  color: white;
 }
 
 @media (min-width: 992px) {
@@ -411,7 +411,7 @@ p.sctext {
 }
 
 .team-member img {
-  width: 300px;
+  width: 350px;
   height: 300px;
   border: 7px solid #fff;
   margin-bottom: 30px;
@@ -489,11 +489,13 @@ section#contact :-ms-input-placeholder {
 footer {
   padding: 25px 0;
   text-align: center;
+  background-color: #212529;
 }
 
+
 footer span.copyright {
-  font-size: 90%;
-  line-height: 40px;
+  font-size: 70%;
+  color: white;
   text-transform: none;
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
