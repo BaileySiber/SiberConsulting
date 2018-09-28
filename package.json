@@ -12,7 +12,7 @@
         "template"
     ],
     "scripts": {
-      "start": "node server.js"
+        "start": "node server.js"
     },
     "homepage": "https://startbootstrap.com/template-overviews/agency",
     "bugs": {
