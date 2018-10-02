@@ -45,7 +45,7 @@ section h2.section-heading {
 }
 
 section h2.section-subheading {
-  font-size: 26px;
+  font-size: 20px;
   font-weight: 400;
   color: white;
   margin-bottom: 20px;
@@ -265,6 +265,24 @@ p.sctext {
 
 .team-member p {
   margin-top: 0;
+}
+
+.articles {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.cnbc {
+  width: 100px;
+  height: 100px;
+  margin-right: 50px;
+}
+
+.huff {
+  width: 100px;
+  height: 100px;
+  margin-left: 50px;
 }
 
 section#contact {
