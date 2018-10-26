@@ -251,9 +251,10 @@ p.sctext {
 }
 
 .team-member img {
-  width: 350px;
-  height: 300px;
+  width: 410px;
+  height: 350px;
   border: 7px solid #fff;
+  border-radius: 100px;
   margin-bottom: 30px;
 }
 
