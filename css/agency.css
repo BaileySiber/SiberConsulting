@@ -39,7 +39,7 @@ section {
 }
 
 section h2.section-heading {
-  font-size: 40px;
+  font-size: 35px;
   margin-top: 0;
   margin-bottom: 15px;
 }
@@ -55,7 +55,7 @@ section h2.section-subheading {
 
 @media (min-width: 768px) {
   section {
-    padding: 150px 0;
+    padding: 50px 0;
   }
 }
 
@@ -171,7 +171,8 @@ img::-moz-selection {
 header.masthead {
   text-align: center;
   color: white;
-  background-image: url("../img/beach.jpg");
+  background-image: url("../img/bostontint.png");
+  background-color: #f8f9fa!important;
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -182,7 +183,7 @@ header.masthead {
 }
 
 header.masthead .intro-text {
-  padding-top: 150px;
+  padding-top: 100px;
   padding-bottom: 100px;
 }
 
@@ -195,17 +196,17 @@ header.masthead .intro-text .intro-lead-in {
 }
 
 header.masthead .intro-text .intro-heading {
-  font-size: 50px;
+  font-size: 30px;
   font-weight: 700;
-  line-height: 50px;
+  line-height: 30px;
   margin-bottom: 25px;
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 @media (min-width: 768px) {
   header.masthead .intro-text {
-    padding-top: 300px;
-    padding-bottom: 200px;
+    padding-top: 100px;
+    padding-bottom: 300px;
   }
   header.masthead .intro-text .intro-lead-in {
     font-size: 40px;
