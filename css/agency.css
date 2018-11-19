@@ -173,6 +173,7 @@ header.masthead {
   color: white;
   background-color: #f8f9fa!important;
   background-image: url("../img/bostontint.png");
+  height: 100%;
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
